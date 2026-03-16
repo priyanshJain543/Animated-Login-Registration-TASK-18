@@ -3,7 +3,7 @@
 A high-fidelity authentication interface focusing on **Micro-interactions** and **Stateful UI**. This project utilizes Vanilla JavaScript and Modern CSS (Level 4) to create a seamless user journey between authentication states without page refreshes.
 
 ## 🔗 Live Experience
-**[Explore the Live Demo]()**
+**[Explore the Live Demo]( https://priyanshjain543.github.io/Animated-Login-Registration-TASK-18/)**
 
 ---
 
